@@ -18,8 +18,7 @@
               </div>
               <button type="submit" class="btn btn-primary btn-lg">Log in</button>
            </form>
-            <div class="dropdown-divider"></div>
-            <a  href="" target="_blank" class="btn btn-warning">Forgot your password</a>
+		  <div class="dropdown-divider"></div>
             <a href="SignUp.php" class="btn btn-success">Sign up</a>
           </div>
         </div>
