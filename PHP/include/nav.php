@@ -10,12 +10,6 @@
           </ul>
           <ul class="navbar-nav mr-left">
             <li class="nav-item float-sm-right">
-              <a class="nav-link" href="SignUp.php">Sign up</a>
-            </li>
-            <li class="nav-item float-sm-right">
-              <a class="nav-link" href="Login.php">Log in<span class="sr-only"></span></a>
-            </li> 
-            <li class="nav-item float-sm-right">
               <a class="nav-link" href="Logout.php">Log out</a>
             </li>
           </ul>
