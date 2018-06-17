@@ -26,7 +26,7 @@
         <div>
           <div class="alert alert-info" role="alert">
             Warning !! To Login or Sign up you must first create a database on your local@host, to do so make sure you start your web and database server before creating a database. If you have password for Root, please change the password in my PHP script.
-            <form action="http://127.0.0.1/Portfolio/NewLogin/DbSuccess.php" method="POST" accept-charset="utf-8">
+            <form action="DbSuccess.php" method="POST" accept-charset="utf-8">
             <button type="submit" class="btn btn-link">Create DEMO database</button>
             </form>
           </div>
